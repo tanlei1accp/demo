@@ -5,4 +5,7 @@ public class IndexController {
         System.out.println("aaa");
         System.out.println("xcy");
     }
+    public void creatofzxl(){
+        System.out.println("i'm zhangxiaolong");
+    }
 }
